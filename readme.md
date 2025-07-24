@@ -75,5 +75,5 @@ Visit: `http://localhost:3000`
 
 ## 🔗 Live Demo
 
-Deployed via [Vercel](https://vercel.com/) → [https://virat-kohli-store.vercel.app](https://virat-kohli-store.vercel.app)
+Deployed via [Vercel](https://vercel.com/) → [[https://virat-kohli-store.vercel.app](https://vk-signature-store-ks0541929-9692s-projects.vercel.app/)]
 
